@@ -1,4 +1,4 @@
-# ChristmasDeerGame
+# Christmas Deer Game
 Course project on the discipline "programming". The project is made in 2019, using C++ programming language and SDL 2 library.
 The development of the project was inspired by the game flappy bird. The main character of the game is a Christmas deer.
 In the game, there are several types of pipes that the deer has to jump between:
