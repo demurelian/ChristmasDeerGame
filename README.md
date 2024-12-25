@@ -7,4 +7,4 @@ In the game, there are several types of pipes that the deer has to jump between:
 - bonus level launching pipe (in it the speed of movement is higher, but more points are given for each pipe).
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN2bnd4cmt5czA5bzdubnRmNDM2dnZ6MnZmZ3JlYm10cXRyNWlwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2NtJhMmq3YP0RNnUdI/giphy.gif)
-# *An educational, non-commercial project, all materials are used for educational purposes and are taken from public sources.
+# *An educational, non-commercial project, all materials used for educational purposes and taken from public sources.
